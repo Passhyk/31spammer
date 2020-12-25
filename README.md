@@ -5,6 +5,7 @@ its just spamming 31. don't even ask why i did this.
 
 ```sh
 git clone https://github.com/Passhyk/31spammer
+cd 31spammer/
 sudo gcc -o 31spammer && ./31spammer
 
 ```
