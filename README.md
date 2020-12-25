@@ -1,5 +1,5 @@
 # 31spammer
-by the time you run this program may be injure your pc badly therefore be awake while running
+by the time you run this program may be injure your pc badly therefore be awake before running
 ## CLONNING and COMPILE-RUNNING
 
 ```sh
